@@ -1,7 +1,6 @@
 # nmapbar
 A Little program in Ruby that adds a progress bar to Nmap and enhances output, making it easier to identify open ports. 
 
-___
 
 ## Installation
 
@@ -13,7 +12,6 @@ Install tty-progressbar
 Install Pastel for colors =DD
 
 ```$ gem install pastel```
-___
 
 
 ## Usage
@@ -37,6 +35,5 @@ ruby nmapbar.rb -s 10.0.14.5
 
 ```
 The result of every scan is saved in the same folder of the program, using as name the ip of the target.txt
-___
 
 d
