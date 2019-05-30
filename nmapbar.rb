@@ -1,4 +1,4 @@
-#!/bin/bash/ruby
+#!/usr/bin/ruby
 require 'pty'
 require 'tty-progressbar'
 require 'pastel'
