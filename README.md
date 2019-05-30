@@ -1,6 +1,9 @@
 # nmapbar
 A Little program in Ruby that adds a progress bar to Nmap and enhances output, making it easier to identify open ports. 
 
+![Alt Text](https://s3.gifyu.com/images/nmapbar.gif)
+
+
 
 ## Installation
 
@@ -36,4 +39,4 @@ ruby nmapbar.rb -s 10.0.14.5
 ```
 The result of every scan is saved in the same folder of the program, using as name the ip of the target.txt
 
-d
+
