@@ -17,6 +17,10 @@ Install Pastel for colors =DD
 ```$ gem install pastel```
 
 
+Install 
+
+```git clone https://github.com/Mr-P4p3r/nmapbar.git```
+
 ## Usage
 
 With only two switches the use is very simple.
