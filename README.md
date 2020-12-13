@@ -1,7 +1,7 @@
 # nmapbar
 A Little program in Ruby that adds a progress bar to Nmap and enhances output, making it easier to identify open ports. 
 
-![Alt Text](https://s3.gifyu.com/images/nmapbar.gif)
+![](https://user-images.githubusercontent.com/51126823/102024029-1d2b3580-3d6e-11eb-807a-1f681d7d2a2a.gif)
 
 
 
